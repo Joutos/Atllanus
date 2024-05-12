@@ -7,17 +7,23 @@ Reef é um menino que sempre sonhou em ver a cidade Attlanus, uma cidade além m
 
 ## Imagens
 
+- Arte conceitual do jogo
+
 ![Concept Art](./img/concept/Concept.jpg)
-Arte conceitual do jogo
+
+
+- Primeira versão de asset do mundo (A ser editado)
 
 ![World Map](./img/concept/Mundo.jpg)
-Primeira versão de asset do mundo (A ser editado)
+
+- Primeira cena do jogo, onde o protagonista irá repensar nos seus sonhos e definir suas motivações.
 
 ![Start Point](./img/concept/StartMap.jpg)
-Primeira cena do jogo, onde o protagonista irá repensar nos seus sonhos e definir suas motivações.
+
+- Sprites do personagem principal da trama
 
 ![Personagem principal](./img/concept/character.jpg)
-Sprites do personagem principal da trama
+
+- Primeira versão do NPC mercante que estará presente no mundo inteiro
 
 ![Primeira versão do mercador](./img/concept/merchant.jpg)
-Primeira versão do NPC mercante que estará presente no mundo inteiro
