@@ -22,6 +22,11 @@ Reef é um menino que sempre sonhou em ver a cidade Attlanus, uma cidade além m
 
 ![Start Point](./img/concept/StartMap.jpg)
 
+- Cidade inicial
+
+  ![image](https://github.com/Joutos/Atllanus/assets/72500986/50e78b23-08bd-4aee-be8d-af7b61e7486c)
+
+
 - Sprites do personagem principal da trama
 
 ![Personagem principal](./img/concept/character.jpg)
